@@ -1,9 +1,7 @@
-### Hi there 👋
+### Oi, eu sou o Miguel Machado 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-miguelmachado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-machado/)](https://www.linkedin.com/in/miguel-machado/)
-
-- 🔭 I’m currently working with React using Next.JS as a Front-end Developer
-- 🌱 I’m currently learning how to stay healthy on this quarantine
-- 💬 Ask me about tech, games and musics
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I am a streamer too
+<div>
+  <a href="https://github.com/miguelmachado-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelmachado-dev&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmachado-dev&layout=compact&langs_count=7&theme=nightowl"/>
+</div>
