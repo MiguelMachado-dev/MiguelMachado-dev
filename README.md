@@ -1,6 +1,6 @@
 ### Oi, eu sou o Miguel Machado 👋
 
-💻 Desenvolvedor Fullstack!
+💻 Desenvolvedor Frontend!
 
 <div>
   <a href="https://github.com/miguelmachado-dev">
