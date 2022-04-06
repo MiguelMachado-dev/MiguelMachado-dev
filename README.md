@@ -1,4 +1,4 @@
-<h1>Oi, eu sou o Miguel👋</h1>
+<h1>Oi, eu sou o Miguel <img src="https://raw.githubusercontent.com/MiguelMachado-dev/MiguelMachado-dev/master/hi.gif" width="30px"></h1>
 
 💻 Desenvolvedor Frontend!
 
