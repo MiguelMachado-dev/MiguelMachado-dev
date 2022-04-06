@@ -1,4 +1,4 @@
-### Oi, eu sou o Miguel Machado 👋
+<h1>Oi, eu sou o Miguel👋</h1>
 
 💻 Desenvolvedor Frontend!
 
