@@ -17,7 +17,6 @@
   <img align="center" alt="Miguel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Miguel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Miguel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Miguel-yoda" height="128" src="https://cdn.discordapp.com/avatars/186567943729971202/4835fa22b36fdf121d382d105ac48ba7.webp?size=128">
 </div>
   
   ##
