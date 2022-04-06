@@ -2,6 +2,8 @@
 
 💻 Desenvolvedor Frontend!
 
+<img src="https://komarev.com/ghpvc/?username=MiguelMachado-dev&color=blueviolet" alt="Profile views" /> 
+
 <div>
   <a href="https://github.com/miguelmachado-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelmachado-dev&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
