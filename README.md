@@ -1,8 +1,16 @@
 <h1>Oi, eu sou o Miguel <img src="https://raw.githubusercontent.com/MiguelMachado-dev/MiguelMachado-dev/master/hi.gif" width="30px"></h1>
-
-💻 Desenvolvedor Frontend!
-
 <img src="https://komarev.com/ghpvc/?username=MiguelMachado-dev&color=blueviolet" alt="Profile views" /> 
+
+- 💻  Frontend Engineer
+
+- 🔭  I’m currently working on Cornershop by Uber
+
+- 🌱  I’m currently learning **JavaScript, TypeScript, React and GraphQL**
+
+- 🚀  How to reach me  [miguelmachado.dev](https://miguelmachado.dev)
+
+
+<br>
 
 <div>
   <a href="https://github.com/miguelmachado-dev">
@@ -16,8 +24,6 @@
   <img align="center" alt="Miguel-GraphQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/graphql/graphql-plain.svg">
   <img align="center" alt="Miguel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Miguel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Miguel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Miguel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
   ##
