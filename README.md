@@ -3,7 +3,7 @@
 
 - 💻  Frontend Engineer
 
-- 🔭  I’m currently working on **Uber**
+- 🔭  I’m currently working at **Uber**
 
 - 🌱  I’m currently learning **JavaScript, TypeScript, React and GraphQL**
 
