@@ -9,6 +9,8 @@
 
 - 🚀  How to reach me  [miguelmachado.dev](https://miguelmachado.dev)
 
+- ✉️  Contact me hello@miguelmachado.dev [(Crypt It!)](https://github.com/MiguelMachado-dev/MiguelMachado-dev/blob/master/public_key_miguelmachado-dev.asc)
+
 
 <br>
 
