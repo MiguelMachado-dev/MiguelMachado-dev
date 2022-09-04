@@ -3,13 +3,13 @@
 
 - 💻  Frontend Engineer
 
-- 🔭  I’m currently working at **Uber**
+- 🔭  Atualmente trabalhando na **Uber**
 
-- 🌱  I’m currently learning **JavaScript, TypeScript, React and GraphQL**
+- 🌱  Estudando e especializando em **JavaScript, TypeScript, React and GraphQL**
 
-- 🚀  How to reach me  [miguelmachado.dev](https://miguelmachado.dev)
+- 🚀  Meu blog pessoal  [miguelmachado.dev](https://miguelmachado.dev)
 
-- ✉️  Contact me hello@miguelmachado.dev [(Crypt It!)](https://github.com/MiguelMachado-dev/MiguelMachado-dev/blob/master/public_key_miguelmachado-dev.asc)
+- ✉️  Entre em contato hello@miguelmachado.dev [(Crypt It!)](https://github.com/MiguelMachado-dev/MiguelMachado-dev/blob/master/public_key_miguelmachado-dev.asc)
 
 
 <br>
