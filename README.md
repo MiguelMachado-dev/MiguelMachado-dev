@@ -5,7 +5,7 @@
 
 - 🔭  Atualmente trabalhando na **Uber**
 
-- 🌱  Estudando e especializando em **JavaScript, TypeScript, React and GraphQL**
+- 🌱  Estudando e especializando em **JavaScript, TypeScript, React e GraphQL**
 
 - 🚀  Meu blog pessoal  [miguelmachado.dev](https://miguelmachado.dev)
 
