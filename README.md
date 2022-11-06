@@ -5,7 +5,9 @@
 
 - 🔭  Atualmente trabalhando na **Uber**
 
-- 🌱  Estudando e especializando em **JavaScript, TypeScript, React e GraphQL**
+- 🤓  Conhecimento: **JavaScript, TypeScrit, NextJS, ReactJS, GraphQL e testes (jest, testing library, vitest, cypress)**
+
+- 🌱  Estudando **Kotlin e Android Development**
 
 - 🚀  Meu blog pessoal  [miguelmachado.dev](https://miguelmachado.dev)
 
