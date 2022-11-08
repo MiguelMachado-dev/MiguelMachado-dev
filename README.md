@@ -1,6 +1,8 @@
 <h1>Oi, eu sou o Miguel <img src="https://raw.githubusercontent.com/MiguelMachado-dev/MiguelMachado-dev/master/hi.gif" width="30"></h1>
 <img src="https://komarev.com/ghpvc/?username=MiguelMachado-dev&color=blueviolet" alt="Profile views" /> 
 
+> Criando conteúdo para comunidade brasileira!
+
 - 💻  Frontend Engineer
 
 - 🔭  Atualmente trabalhando na **Uber**
