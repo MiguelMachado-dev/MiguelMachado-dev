@@ -20,7 +20,9 @@
 
 <div>
   <a href="https://github.com/miguelmachado-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelmachado-dev&show_icons=true&theme=nightowl&count_private=true"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=miguelmachado-dev&show_icons=true&theme=nightowl&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmachado-dev&layout=compact&theme=nightowl&count_private=true&langs_count=8"/>
+  </a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Miguel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
