@@ -21,7 +21,7 @@
 <div>
   <a href="https://github.com/miguelmachado-dev">
     <img height="190em" src="https://github-readme-stats.vercel.app/api?username=miguelmachado-dev&show_icons=true&theme=nightowl&count_private=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmachado-dev&layout=compact&theme=nightowl&count_private=true&langs_count=8"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmachado-dev&layout=compact&theme=nightowl&count_private=true&langs_count=6"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
