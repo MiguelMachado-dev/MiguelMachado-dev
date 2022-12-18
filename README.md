@@ -15,7 +15,7 @@
 
 <br/>
 
-### <div align="center">Sou Miguel, Software Engineer👨‍💻desenvolvedor desde 2018 🚀</div>
+### <div align="center">I am, Software Engineer👨‍💻 since 2018 🚀</div>
 
 - 🔭 Atualmente trabalhando na [Uber](https://github.com/uber)
 
