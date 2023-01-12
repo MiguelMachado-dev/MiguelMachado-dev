@@ -77,9 +77,9 @@
 ## Github Stats
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelMachado-dev&show_icons=true&count_private=true&hide_border=true&theme=nightowl" />
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MiguelMachado-dev&show_icons=true&count_private=true&hide_border=true&theme=nightowl" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMachado-dev&hide_border=true&layout=compact&theme=nightowl&count_private=true&langs_count=6" />  
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MiguelMachado-dev&hide_border=true&layout=compact&theme=nightowl&count_private=true&langs_count=6" />  
 </div>
 
 <br/>
