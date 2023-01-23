@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="height: 400px" />
 </div>
 
-## Connect with me
+## Miguel Machado
 
 <div align="center">
 <a href="https://linkedin.com/in/miguel-machado" target="_blank">
@@ -15,19 +15,17 @@
 
 <br/>
 
-### <div align="center">I am, Software Engineer👨‍💻 since 2018 🚀</div>
+### <div align="center">Software Engineer👨‍💻 since 2018 🚀</div>
 
-- 🔭 Atualmente trabalhando na [Uber](https://github.com/uber)
+- 🔭 Currently working at [Uber](https://github.com/uber)
 
-- 🌱Atualmente estudando e aprendendo Kotlin e Android
+- 🌱 Currently learning Kotlin, Android and Golang
 
-- ❓ Pergunte-me sobre Typescript, GraphQL, React-query e ferramentas relacionadas
+- ❓ Ask me about anything written using JavaScript
 
-- 🚀 Meu blog pessoal [miguelmachado.dev](https://miguelmachado.dev)
+- 🚀 Personal Blog [miguelmachado.dev](https://miguelmachado.dev) :brazil:
 
-- ✉️ Entre em contato hello@miguelmachado.dev [(Crypt It!)](https://github.com/MiguelMachado-dev/MiguelMachado-dev/blob/master/public_key_miguelmachado-dev.asc)
-
-- ⚡ Fun fact: Streamer nas horas vagas e amante de FPS
+- ✉️ Mail me hello@miguelmachado.dev [(Crypt It!)](https://github.com/MiguelMachado-dev/MiguelMachado-dev/blob/master/public_key_miguelmachado-dev.asc)
 
 <br/>
 
