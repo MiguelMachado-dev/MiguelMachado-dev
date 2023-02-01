@@ -17,7 +17,7 @@
 
 ### <div align="center">Software Engineer👨‍💻 since 2018 🚀</div>
 
-- 🔭 Currently working at [Uber](https://github.com/uber)
+- 🔭 Currently working at Globant
 
 - 🌱 Currently learning Kotlin, Android and Golang
 
