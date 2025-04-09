@@ -19,7 +19,7 @@
 
 - 🔭 Currently working at Globant
 
-- 🌱 Currently learning Kotlin, Android and Golang
+- 🌱 Currently learning Golang, C# and Unity.
 
 - ❓ Ask me about anything written using JavaScript
 
