@@ -19,9 +19,9 @@
 
 - 🔭 Currently working at Globant
 
-- 🌱 Currently learning Golang, C# and Unity.
+- 🌱 Currently diving deep into Golang, GraphQL and Node.js.
 
-- ❓ Ask me about anything written using JavaScript and Kotlin.
+- ❓ Ask me about anything written using JavaScript and Golang.
 
 - 🚀 Personal Blog [miguelmachado.dev](https://miguelmachado.dev) :brazil:
 
