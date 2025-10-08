@@ -1,4 +1,4 @@
-# About Me
+# <img src="./hi.gif" width="30" /> About Me
 🔭 Currently working at Globant.<br>🐛 Creating bugs since 2018.<br>🌱 Currently diving deep into Golang, GraphQL and Node.js.<br>❓ Ask me about anything written using JavaScript and Golang.
 
 
